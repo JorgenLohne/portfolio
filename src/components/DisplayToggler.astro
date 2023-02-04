@@ -1,0 +1,12 @@
+---
+let isDarkmode = false;
+let alt = isDarkmode ? "moon-icon" : "sun-icon";
+
+let handleClick = () => {
+  isDarkmode = !isDarkmode;
+};
+---
+
+<button>
+  <img src="" alt={alt} onclick="handleClick" />
+</button>
