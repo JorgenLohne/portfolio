@@ -45,8 +45,10 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro --help` | Get help using the Astro CLI                     |
 
-## Helpfull links
+## 🎓 Helpfull links
 
 [Astro Documentaion](https://docs.astro.build)
+
 [Tailwind Documentation](https://tailwindcss.com/docs/installation)
-[Tailwind Cheet Sheet](https://tailwindcomponents.com/cheatsheet/)
+
+[Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet/)
