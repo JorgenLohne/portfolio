@@ -1,10 +1,10 @@
 # Jørgen Lohne website
 
-## About
+## 📙 About
 
 Personl website built using [Astro](https://astro.build/) and [TailwindCSS](https://tailwindcss.com/)
 
-## Tech stack
+## ⚙ Tech stack
 
 This project uses Astro components, styling is done with TailwindCSS and code formating is done by prettier.
 
