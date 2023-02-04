@@ -1,20 +1,16 @@
-# Astro Starter Kit: Basics
+# Jørgen Lohne website
 
-```
-npm create astro@latest -- --template basics
-```
+## About
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/withastro/astro/tree/latest/examples/basics)
+Personl website built using [Astro](https://astro.build/) and [TailwindCSS](https://tailwindcss.com/)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Tech stack
 
-![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
-
+This project uses Astro components, styling is done with TailwindCSS and code formating is done by prettier.
 
 ## 🚀 Project Structure
 
-Inside of your Astro project, you'll see the following folders and files:
+Using the standard Astro project structure, you'll see the following folders and files:
 
 ```
 /
@@ -49,6 +45,8 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
+## Helpfull links
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+[Astro Documentaion](https://docs.astro.build)
+[Tailwind Documentation](https://tailwindcss.com/docs/installation)
+[Tailwind Cheet Sheet](https://tailwindcomponents.com/cheatsheet/)
