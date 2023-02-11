@@ -1,7 +1,7 @@
 ---
 let name = "Jørgen Lohne";
 let description = "Software engineer";
-let source = "src/assets/pingu.jpeg";
+import profilePic from "../assets/pingu.jpeg";
 ---
 
 <div class="flex justify-center space-x-12 pt-16">
@@ -10,7 +10,7 @@ let source = "src/assets/pingu.jpeg";
     <p class="text-zinc-500">{description}</p>
   </div>
   <img
-    src={source}
+    src={profilePic}
     alt={name}
     class="h-auto max-w-lg rounded object-scale-down"
   />
