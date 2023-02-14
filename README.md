@@ -2,7 +2,7 @@
 
 ## 📙 About
 
-Personal website / portofolio built using [Astro](https://astro.build/) and [TailwindCSS](https://tailwindcss.com/)
+A very WIP Personal website / portofolio built using [Astro](https://astro.build/) and [TailwindCSS](https://tailwindcss.com/)
 
 ## ⚙ Tech stack
 
